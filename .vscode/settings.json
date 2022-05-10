@@ -1,0 +1,9 @@
+{
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    },
+    "terminal.integrated.automationProfile.osx": {},
+    "terminal.integrated.defaultProfile.osx": "",
+    "terminal.integrated.defaultProfile.linux": ""
+}
